@@ -1,2 +1,2 @@
 # minha_pasta
-aula sobr git
+aula sobre git
